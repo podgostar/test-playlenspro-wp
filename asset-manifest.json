@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/test-playlenspro-wp/static/css/main.442451ae.css",
+    "main.js": "/test-playlenspro-wp/static/js/main.54ad126d.js",
+    "static/js/585.f6a826e0.chunk.js": "/test-playlenspro-wp/static/js/585.f6a826e0.chunk.js",
+    "static/js/44.8e18aa2d.chunk.js": "/test-playlenspro-wp/static/js/44.8e18aa2d.chunk.js",
+    "static/js/538.be2467e5.chunk.js": "/test-playlenspro-wp/static/js/538.be2467e5.chunk.js",
+    "static/js/566.ab969130.chunk.js": "/test-playlenspro-wp/static/js/566.ab969130.chunk.js",
+    "static/js/19.44f5eab2.chunk.js": "/test-playlenspro-wp/static/js/19.44f5eab2.chunk.js",
+    "index.html": "/test-playlenspro-wp/index.html",
+    "main.442451ae.css.map": "/test-playlenspro-wp/static/css/main.442451ae.css.map",
+    "main.54ad126d.js.map": "/test-playlenspro-wp/static/js/main.54ad126d.js.map",
+    "585.f6a826e0.chunk.js.map": "/test-playlenspro-wp/static/js/585.f6a826e0.chunk.js.map",
+    "44.8e18aa2d.chunk.js.map": "/test-playlenspro-wp/static/js/44.8e18aa2d.chunk.js.map",
+    "538.be2467e5.chunk.js.map": "/test-playlenspro-wp/static/js/538.be2467e5.chunk.js.map",
+    "566.ab969130.chunk.js.map": "/test-playlenspro-wp/static/js/566.ab969130.chunk.js.map",
+    "19.44f5eab2.chunk.js.map": "/test-playlenspro-wp/static/js/19.44f5eab2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.442451ae.css",
+    "static/js/main.54ad126d.js"
+  ]
+}
