@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.442451ae.css",
-    "main.js": "/static/js/main.92b435bb.js",
-    "static/js/585.038f1f78.chunk.js": "/static/js/585.038f1f78.chunk.js",
-    "static/js/44.8e18aa2d.chunk.js": "/static/js/44.8e18aa2d.chunk.js",
-    "static/js/538.be2467e5.chunk.js": "/static/js/538.be2467e5.chunk.js",
-    "static/js/566.ab969130.chunk.js": "/static/js/566.ab969130.chunk.js",
-    "static/js/19.44f5eab2.chunk.js": "/static/js/19.44f5eab2.chunk.js",
-    "index.html": "/index.html",
-    "main.442451ae.css.map": "/static/css/main.442451ae.css.map",
-    "main.92b435bb.js.map": "/static/js/main.92b435bb.js.map",
-    "585.038f1f78.chunk.js.map": "/static/js/585.038f1f78.chunk.js.map",
-    "44.8e18aa2d.chunk.js.map": "/static/js/44.8e18aa2d.chunk.js.map",
-    "538.be2467e5.chunk.js.map": "/static/js/538.be2467e5.chunk.js.map",
-    "566.ab969130.chunk.js.map": "/static/js/566.ab969130.chunk.js.map",
-    "19.44f5eab2.chunk.js.map": "/static/js/19.44f5eab2.chunk.js.map"
+    "main.css": "/test-playlenspro-wp/static/css/main.442451ae.css",
+    "main.js": "/test-playlenspro-wp/static/js/main.9fc5db62.js",
+    "static/js/585.36cf17bc.chunk.js": "/test-playlenspro-wp/static/js/585.36cf17bc.chunk.js",
+    "static/js/44.8e18aa2d.chunk.js": "/test-playlenspro-wp/static/js/44.8e18aa2d.chunk.js",
+    "static/js/538.9457fdd9.chunk.js": "/test-playlenspro-wp/static/js/538.9457fdd9.chunk.js",
+    "static/js/566.7856216f.chunk.js": "/test-playlenspro-wp/static/js/566.7856216f.chunk.js",
+    "static/js/19.44f5eab2.chunk.js": "/test-playlenspro-wp/static/js/19.44f5eab2.chunk.js",
+    "index.html": "/test-playlenspro-wp/index.html",
+    "main.442451ae.css.map": "/test-playlenspro-wp/static/css/main.442451ae.css.map",
+    "main.9fc5db62.js.map": "/test-playlenspro-wp/static/js/main.9fc5db62.js.map",
+    "585.36cf17bc.chunk.js.map": "/test-playlenspro-wp/static/js/585.36cf17bc.chunk.js.map",
+    "44.8e18aa2d.chunk.js.map": "/test-playlenspro-wp/static/js/44.8e18aa2d.chunk.js.map",
+    "538.9457fdd9.chunk.js.map": "/test-playlenspro-wp/static/js/538.9457fdd9.chunk.js.map",
+    "566.7856216f.chunk.js.map": "/test-playlenspro-wp/static/js/566.7856216f.chunk.js.map",
+    "19.44f5eab2.chunk.js.map": "/test-playlenspro-wp/static/js/19.44f5eab2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.442451ae.css",
-    "static/js/main.92b435bb.js"
+    "static/js/main.9fc5db62.js"
   ]
 }
