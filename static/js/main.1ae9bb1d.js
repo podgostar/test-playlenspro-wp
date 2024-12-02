@@ -1,4 +1,4 @@
-/*! For license information please see main.c234db40.js.LICENSE.txt */
+/*! For license information please see main.1ae9bb1d.js.LICENSE.txt */
 (()=>{var e={5639:(e,t,n)=>{"use strict";n.d(t,{$:()=>o});const r=(0,n(9).Ay)("button")`
   background: ${e=>e.color||"#2e186a"};
   color: ${e=>e.color?"#2E186A":"#fff"};
@@ -270,13 +270,13 @@
 
     @font-face {
         font-family: "Motiva Sans Light";
-        src: url("./fonts/Motiva-Sans-Light.ttf") format("truetype");
+        src: url('${""}/fonts/Motiva-Sans-Light.ttf') format("truetype");
         font-style: normal;
     }
 
     @font-face {
         font-family: "Motiva Sans Bold";
-        src: url("./fonts/Motiva-Sans-Bold.ttf") format("truetype");
+        src: url('${""}/fonts/Motiva-Sans-Bold.ttf') format("truetype");
         font-style: normal;
     }
 
@@ -376,4 +376,4 @@
         width: 300px !important;
     }
 `,ko=()=>(0,pe.jsxs)(r.Suspense,{fallback:null,children:[(0,pe.jsx)(wo,{}),(0,pe.jsx)(yo,{}),(0,pe.jsx)(X,{children:bo.map((e=>(0,pe.jsx)(B,{path:e.path,exact:e.exact,component:(0,r.lazy)((()=>n(629)(`./${e.component}`)))},e.component)))}),(0,pe.jsx)(he,{})]}),xo=()=>(0,pe.jsxs)(Z,{basename:"",children:[" ",(0,pe.jsx)(ko,{})," "]});ue.render((0,pe.jsxs)(r.StrictMode,{children:[" ",(0,pe.jsxs)(J,{children:[" ",(0,pe.jsx)(xo,{})," "]})," "]}),document.getElementById("root"))})()})();
-//# sourceMappingURL=main.c234db40.js.map
+//# sourceMappingURL=main.1ae9bb1d.js.map
